@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URI = '';
+const API_URI = 'https://kind-gray-lobster-tutu.cyclic.app';
 
 export const uploadFile = async (data) => {
     try {
